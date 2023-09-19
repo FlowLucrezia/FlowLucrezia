@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @FlowLucrezia
-- 👀 I’m interested in interpersonal communication over the course of development (esp early/late adolescence), emotional (dys)regulation, yoga & meditation, individual and collective experience of dance and other aesthetically focused sports (i.e, gymnastics, figure-skating), and the development of holistic approaches to functional rehabilitation for young athletes
-- 🌱 I’m currently learning how to use Rstudio and Matlab to conduct my future research projects!
+- 👋 Hi, I’m @FlowLucrezia - 👀 I’m interested in the dynamics of interpersonal communication over the course of development (esp over transitions through early/late adolescence), embodied processes of emotional (dys)regulation across nested timescales, aesthetic experience of dance and other performance sports, the potential of yoga & meditation as rehabilitative modalities for chronic pain and anxiety disorders, and the development of holistic approaches to functional PRE-habilitation for young athletes
+- 🌱 I’m currently learning how to use Rstudio and Matlab for my ongoing + future research projects! Using nonlinear statistical techniques including; (multi)fractal analysis, (C)RQA, MdRQA, cross-convergent mapping, etc...
 - 💞️ I’m looking to collaborate on future data analysis tools and projects :)
 - 📫 How to reach me: l.lucchi@student.rug.nl OR lucrezialucchi29@gmail.com
 
